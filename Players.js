@@ -14,7 +14,7 @@ export const players = [
       {cat:"Shield", pos:"", img:"../images/Tiers.png"},
       {cat:"Fire Axe PvP", pos:"Low Tier: 3", img:"../images/Tiers/L3Fire.png"},
       {cat:"Scythe", pos:"", img:"../images/Tiers.png"},
-      {cat:"Other PvP", pos:"High Tier: 4", img:"/images/Tiers/H4Other.png"}
+      {cat:"Other PvP", pos:"High Tier: 4", img:"../images/Tiers/H4Other.png"}
     ]
   },
 
