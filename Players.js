@@ -26,12 +26,12 @@ export const players = [
     rank:"../images/Ruby.png",
     categories:[
       {cat:"Bat PvP", pos:"High Tier 1", img:"../images/Tiers/H1Bat.png"},
-      {cat:"Dagger", pos:"High Tier 1", img:"../images/Tiers/H1Dagger.png"},
+      {cat:"Dagger PvP", pos:"High Tier 1", img:"../images/Tiers/H1Dagger.png"},
       {cat:"Freeze Glove PvP", pos:"High Tier 1", img:"../images/Tiers/H1Snow.png"},
-      {cat:"Mace", pos:"High Tier 1", img:"../images/Tiers/H1Mace.png"},
-      {cat:"Shield", pos:"High Tier 1", img:"../images/Tiers/H1Shield.png"},
+      {cat:"Mace PvP", pos:"High Tier 1", img:"../images/Tiers/H1Mace.png"},
+      {cat:"Shield PvP", pos:"High Tier 1", img:"../images/Tiers/H1Shield.png"},
       {cat:"Fire Axe PvP", pos:"High Tier 1", img:"../images/Tiers/H1Fire.png"},
-      {cat:"Scythe", pos:"High Tier 1", img:"../images/Tiers/H1Scythe.png"},
+      {cat:"Scythe PvP", pos:"High Tier 1", img:"../images/Tiers/H1Scythe.png"},
       {cat:"Other PvP", pos:"High Tier 1", img:"../images/Tiers/H1Other.png"}
     ]
   },
