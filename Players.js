@@ -9,7 +9,7 @@ export const players = [
     categories:[
       {cat:"Bat PvP", pos:"Tier: 6", img:"https://yeeplist.page.gd/images/Tier6.png"},
       {cat:"Dagger PvP", pos:"Tier: 4", img:"https://yeeplist.page.gd/images/Bat_Tier4.png"},
-      {cat:".FG.", pos:"", img:"https://yeeplist.page.gd/images/TierU.png"},
+      {cat:"Freeze Glove PvP", pos:"Low Tier: 4", img:"../images/Tiers/L4Snow.png"},
       {cat:".M.", pos:"", img:"https://yeeplist.page.gd/images/TierU.png"},
       {cat:"Shield PvP", pos:"Tier: 3", img:"https://yeeplist.page.gd/images/Tier3.png"},
       {cat:".F.", pos:"", img:"https://yeeplist.page.gd/images/TierU.png"},
