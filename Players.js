@@ -18,7 +18,7 @@ export const players = [
     ]
   },
 
-
+];
 
 export const teams = [
   { 
