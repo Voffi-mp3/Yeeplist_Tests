@@ -12,7 +12,7 @@ export const players = [
       {cat:"Freeze Glove", pos:"", img:"../images/Gold.png"},
       {cat:"Mace", pos:"", img:"../images/Platinum.png"},
       {cat:"Shield", pos:"", img:"../images/Diamond.png"},
-      {cat:"Fire Axe", pos:"", img:"../images/Tiers/Ruby.png"},
+      {cat:"Fire Axe", pos:"", img:"../images/Ruby.png"},
       {cat:"Scythe", pos:"", img:"../images/Master.png"},
       {cat:"Other", pos:"", img:"../images/GrandMaster.png"}
     ]
@@ -31,7 +31,7 @@ export const players = [
       {cat:"Mace", pos:"High Tier 1", img:"../images/Tiers/H1Mace.png"},
       {cat:"Shield", pos:"High Tier 1", img:"../images/Tiers/H1Shield.png"},
       {cat:"Fire Axe PvP", pos:"High Tier 1", img:"../images/Tiers/H1Fire.png"},
-      {cat:"Scythe", pos:"High Tier 1", img:"../images/Tiers/H1Sythe.png"},
+      {cat:"Scythe", pos:"High Tier 1", img:"../images/Tiers/H1Scythe.png"},
       {cat:"Other PvP", pos:"High Tier 1", img:"../images/Tiers/H1Other.png"}
     ]
   },
