@@ -68,7 +68,8 @@ export const players = [
       {cat:"Shield PvP", pos:"Low Tier 2", img:"../images/Tiers/L2Shield.png"},
       {cat:"Fire Axe PvP", pos:"High Tier 2", img:"../images/Tiers/H2Fire.png"},
       {cat:"Scythe", pos:"", img:"../images/Tiers.png"},
-      {cat:"Other PvP", pos:"Low Tier 1", img:"../images/Tiers/L1Other.png"}
+      {cat:"Other PvP", pos:"Low Tier 1", img:"../images/Tiers/L1Other.png"},
+      {cat:"Credits And Testers", pos:"Tier Tester", img:"../images/Staff.png"}
     ]
   },
 
