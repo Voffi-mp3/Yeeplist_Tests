@@ -3,7 +3,7 @@ export const players = [
     id:1, 
     name:"Player", 
     avatar:"../images/BlueYeep.png", 
-    title:"gold", 
+    title:"Gold II", 
     score:6+20+0+0+30+0+0+20, 
     rank:"../images/Gold.png",
     categories:[
