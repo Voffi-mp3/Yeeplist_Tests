@@ -21,9 +21,9 @@ export const players = [
     id:2, 
     name:"High Tier 1 Preview", 
     avatar:"../images/PeachYeep.png", 
-    title:"Ruby II", 
-    score:60+0+60+0+0+60+0+60, 
-    rank:"../images/Ruby.png",
+    title:"Grand Master I", 
+    score:60+60+60+60+60+60+60+60, 
+    rank:"../images/GrandMaster.png",
     categories:[
       {cat:"Bat PvP", pos:"High Tier 1", img:"../images/Tiers/H1Bat.png"},
       {cat:"Dagger PvP", pos:"High Tier 1", img:"../images/Tiers/H1Dagger.png"},
@@ -85,7 +85,7 @@ export const teams = [
     categories:[
       {cat:"#1 Player", pos:"285 Points", img:"../images/PeachYeep.png"},
       {cat:"#2 Player, Owner", pos:"180 Points", img:"../images/PurpleYeep.png"},
-      {cat:"#3 Unchosen", pos:"0 Points", img:"../images/Yeep.png"},
+      {cat:"#3 Player", pos:"0 Points", img:"../images/BlueYeep.png"},
       {cat:"#4 Unchosen", pos:"0 Points", img:"../images/Yeep.png"},
       {cat:"#5 Unchosen", pos:"0 Points", img:"../images/Yeep.png"},
     ]
